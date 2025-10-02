@@ -1,2 +1,2 @@
 # beecrowd-resolutions
-Some Beecrowd problem solutions I completed during university classes.
+Algumas soluções de problemas do Beecrowd que resolvi durante aulas da universidade usando C e Python.
